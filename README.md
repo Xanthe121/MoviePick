@@ -3,13 +3,17 @@ cd '.\MoviePick-master\movie picks\’
 1. ls
 2. npm install
 3. npm run start
+
 -------------if not working-------------
+
 1. Get-ChildItem
 2. cd .\movieFrontend\
 3.  npm init -y
 4.  npm install
 5.  npm run dev
+
 -------------if still not working-------------
+
 1. node -v
 2. npm install nvm -g          //(node version control)
 3. nvm list
@@ -18,6 +22,7 @@ cd '.\MoviePick-master\movie picks\’
 6. or nvm -h        //ask for help
 7. npm install
 8. npm run dev
+   
 ______________________________________________________________
 
 1. Open fork
