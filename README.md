@@ -1,10 +1,8 @@
 cd '.\MoviePick-master\movie picks\’
 
-ls
-
-npm install
-
-npm run start
+1. ls
+2. npm install
+3. npm run start
 
 -------------if not working-------------
 1. Get-ChildItem
