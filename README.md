@@ -6,6 +6,13 @@ npm install
 
 npm run start
 
+-------------if not working-------------
+1. Get-ChildItem
+2. cd .\movieFrontend\
+3.  npm init -y
+4.  npm install
+5.  npm run dev
+
 ______________________________________________________________
 
 1. Open fork
